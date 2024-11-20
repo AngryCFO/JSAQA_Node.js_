@@ -1,0 +1,30 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:AngryCFO/JSAQA_Node.js_.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Alexandra Bujor",
+  "license": "AngryCFO",
+  "bugs": {
+    "url": "https://github.com/AngryCFO/JSAQA_Node.js_/issues"
+  },
+  "homepage": "https://github.com/AngryCFO/JSAQA_Node.js_#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.6.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0",
+    "prettier": "^3.3.2"
+  }
+}
